@@ -1,3 +1,17 @@
+/////////////////////////////
+
+In the Task Number #1: Set and decrease for counter
+
+in "...counter.decrease(value) should decrease the count by 1." 
+
+looks like it should be: 
+
+"...counter.decrease() should decrease the count by 1."  Or maybe I am wrong and writting by that way was a part of a plan:) 
+
+Thanks a lot for the this amazing tutorial! 
+
+/////////////////////////////
+
 
 # Function object, NFE
 
